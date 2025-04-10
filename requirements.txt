@@ -1,0 +1,16 @@
+numpy
+pandas
+emdatabase
+networkx
+scipy
+matplotlib
+scikit-learn
+maxfuse
+anndata
+scanpy
+tangram-sc
+seaborn
+plotly
+requests
+gseapy
+blitzgsea
