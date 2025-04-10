@@ -1,2 +1,2 @@
-# Cross-Modal-Learning-Between-scRNA-seq-and-Proteomics
+# Cross Modal Learning Between scRNA-seq and Proteomics
 This repository contains the code used to integrate single-cell RNA-seq with CODEX spatial proteomics data in liver tissues, incorporating biological priors into the cross-modal matching. Downstream analyses on the mapped single-cell data (e.g., pseudo‑Visium spot construction, spatial deconvolution with Tangram, gene set enrichment) are included.
