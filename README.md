@@ -1,2 +1,4 @@
 # Cross Modal Learning Between scRNA-seq and Proteomics
 This repository contains the code used to integrate single-cell RNA-seq with CODEX spatial proteomics data in liver tissues, incorporating biological priors into the cross-modal matching. Downstream analyses on the mapped single-cell data (e.g., pseudo‑Visium spot construction, spatial deconvolution with Tangram, gene set enrichment) are included.
+
+All the code needed to run the integration is located in the thesis.ipynb file. The single-cell and CODEX data is too large, and is thus stored as a ZIP file at https://drive.google.com/file/d/13asCjg9m3lUmDAROUWRkBVrTd4kjg-yo/view?usp=drive_link along with the corresponding Visium spatial transcriptomics data. A sample requirements.txt file is provided for anyone installing these dependencies in a local environment.
